@@ -1,0 +1,9 @@
+{
+  "source_artifact": "OVAL-SUS-Miniature-Edition.html",
+  "published_path": "index.html",
+  "bytes": 199009,
+  "sha256": "b83dc506beafa42263782b490f0688036e0b4c7e8345f6726ffa7b857d54ece9",
+  "application_changed": false,
+  "generated_utc": "2026-09-22T09:39:59.822109+00:00",
+  "note": "The HTML downloaded by the user exactly matches the artifact from the conversation; only the entry-point filename changed."
+}

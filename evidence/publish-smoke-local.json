@@ -1,0 +1,310 @@
+{
+  "artifact": {
+    "file": "index.html",
+    "sha256": "b83dc506beafa42263782b490f0688036e0b4c7e8345f6726ffa7b857d54ece9"
+  },
+  "environment": {
+    "browser": "Google Chrome 153.0.8010.53",
+    "platform": "macOS-26.6.2-arm64-arm-64bit",
+    "mode": "Headless Chrome with isolated profiles; mobile viewport and touch emulation",
+    "url": "index.html (local file)",
+    "generated_utc": "2026-09-22T09:38:45.679246+00:00",
+    "not_tested": [
+      "Native Safari",
+      "Physical iOS and Android devices",
+      "Online multiplayer (not implemented)"
+    ]
+  },
+  "checks": [
+    {
+      "name": "desktop canvas initialized",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "desktop lobby fits viewport",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "desktop 32 skins preserved",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "desktop round starts with 12 actors",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "desktop all 9 task stations reachable",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "desktop keyboard movement",
+      "pass": true,
+      "details": {
+        "distance": 42.26
+      }
+    },
+    {
+      "name": "desktop gameplay fits viewport",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "desktop action buttons in viewport",
+      "pass": true,
+      "details": [
+        {
+          "id": "useBtn",
+          "visible": true,
+          "within": true
+        },
+        {
+          "id": "reportBtn",
+          "visible": true,
+          "within": true
+        },
+        {
+          "id": "mapBtn",
+          "visible": true,
+          "within": true
+        },
+        {
+          "id": "photoBtn",
+          "visible": true,
+          "within": true
+        },
+        {
+          "id": "graphicsBtn",
+          "visible": true,
+          "within": true
+        }
+      ]
+    },
+    {
+      "name": "desktop real path reaches Oval Office task",
+      "pass": true,
+      "details": {
+        "distance": 12.74
+      }
+    },
+    {
+      "name": "night theme switches",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "photo mode uses actual canvas PNG",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "desktop wire minigame opens",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "mobile canvas initialized",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "mobile lobby fits viewport",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "mobile 32 skins preserved",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "mobile round starts with 12 actors",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "mobile all 9 task stations reachable",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "mobile keyboard movement",
+      "pass": true,
+      "details": {
+        "distance": 42.26
+      }
+    },
+    {
+      "name": "mobile gameplay fits viewport",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "mobile action buttons in viewport",
+      "pass": true,
+      "details": [
+        {
+          "id": "useBtn",
+          "visible": true,
+          "within": true
+        },
+        {
+          "id": "reportBtn",
+          "visible": true,
+          "within": true
+        },
+        {
+          "id": "mapBtn",
+          "visible": true,
+          "within": true
+        },
+        {
+          "id": "photoBtn",
+          "visible": true,
+          "within": true
+        },
+        {
+          "id": "graphicsBtn",
+          "visible": true,
+          "within": true
+        }
+      ]
+    },
+    {
+      "name": "mobile real path reaches Oval Office task",
+      "pass": true,
+      "details": {
+        "distance": 12.74
+      }
+    },
+    {
+      "name": "mobile wire minigame opens",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "landscape canvas initialized",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "landscape lobby fits viewport",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "landscape 32 skins preserved",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "landscape round starts with 12 actors",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "landscape all 9 task stations reachable",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "landscape keyboard movement",
+      "pass": true,
+      "details": {
+        "distance": 39
+      }
+    },
+    {
+      "name": "landscape gameplay fits viewport",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "landscape action buttons in viewport",
+      "pass": true,
+      "details": [
+        {
+          "id": "useBtn",
+          "visible": true,
+          "within": true
+        },
+        {
+          "id": "reportBtn",
+          "visible": true,
+          "within": true
+        },
+        {
+          "id": "mapBtn",
+          "visible": true,
+          "within": true
+        },
+        {
+          "id": "photoBtn",
+          "visible": true,
+          "within": true
+        },
+        {
+          "id": "graphicsBtn",
+          "visible": true,
+          "within": true
+        }
+      ]
+    },
+    {
+      "name": "landscape real path reaches Oval Office task",
+      "pass": true,
+      "details": {
+        "distance": 12.74
+      }
+    },
+    {
+      "name": "landscape wire minigame opens",
+      "pass": true,
+      "details": null
+    },
+    {
+      "name": "no unhandled JavaScript errors",
+      "pass": true,
+      "details": []
+    }
+  ],
+  "errors": [],
+  "screenshots": [
+    {
+      "file": "screenshots/desktop-lobby.png",
+      "sha256": "bc71129b65e51d8da3f7d39f10e97dddc9c56851e4812f7c262eaa4312d122b9"
+    },
+    {
+      "file": "screenshots/desktop-gameplay.png",
+      "sha256": "51d83905a9b053a283f9e724af02054a2340601460bc5895b5529574d919bd4a"
+    },
+    {
+      "file": "screenshots/desktop-night.png",
+      "sha256": "c8b9cb723e80f5c148004a57689c7935ffcfe0cb17657f218397bfcfb4b4e89f"
+    },
+    {
+      "file": "screenshots/mobile-lobby.png",
+      "sha256": "ce307997edd5641ab07c31fbcb8a67a54c003c04fb4ed8b70548ca3f3bd30b19"
+    },
+    {
+      "file": "screenshots/mobile-gameplay.png",
+      "sha256": "69833ad1d16a3e7377b55e2a8656412506cc48644e3c9f449047a18ffa18adf8"
+    },
+    {
+      "file": "screenshots/mobile-minigame.png",
+      "sha256": "55b506276005f1c13e26da5ecd9b59fa05aec3c21fa2e2b2d61cd0b2df4f3a34"
+    },
+    {
+      "file": "screenshots/landscape-gameplay.png",
+      "sha256": "8859d31ae7e5b1cddcd682ff6b1d8f208284f5053723b59434126e045981ce9c"
+    }
+  ],
+  "summary": {
+    "passed": 33,
+    "total": 33
+  }
+}
