@@ -1,14 +1,14 @@
 {
   "artifact": {
     "file": "index.html",
-    "sha256": "b83dc506beafa42263782b490f0688036e0b4c7e8345f6726ffa7b857d54ece9"
+    "sha256": "a538fb95c5e699e264bfa89383108e049bc733dabcbba6c93c95244e9ba633bf"
   },
   "environment": {
-    "browser": "Google Chrome 153.0.8010.53",
-    "platform": "macOS-26.6.2-arm64-arm-64bit",
+    "browser": "Google Chrome 152.0.7977.82",
+    "platform": "Linux-6.17.0-1022-azure-x86_64-with-glibc2.39",
     "mode": "Headless Chrome with isolated profiles; mobile viewport and touch emulation",
     "url": "index.html (local file)",
-    "generated_utc": "2026-09-22T09:38:45.679246+00:00",
+    "generated_utc": "2026-09-22T14:23:30.927200+00:00",
     "not_tested": [
       "Native Safari",
       "Physical iOS and Android devices",
@@ -45,7 +45,7 @@
       "name": "desktop keyboard movement",
       "pass": true,
       "details": {
-        "distance": 42.26
+        "distance": 38.36
       }
     },
     {
@@ -135,7 +135,7 @@
       "name": "mobile keyboard movement",
       "pass": true,
       "details": {
-        "distance": 42.26
+        "distance": 42.24
       }
     },
     {
@@ -276,31 +276,31 @@
   "screenshots": [
     {
       "file": "screenshots/desktop-lobby.png",
-      "sha256": "bc71129b65e51d8da3f7d39f10e97dddc9c56851e4812f7c262eaa4312d122b9"
+      "sha256": "a34620e91375c55ee852e58a63ea52f783df8fa07bb8f1e2314d7212e2af1c54"
     },
     {
       "file": "screenshots/desktop-gameplay.png",
-      "sha256": "51d83905a9b053a283f9e724af02054a2340601460bc5895b5529574d919bd4a"
+      "sha256": "f92ee5043b9370a1f77876968c9597b381bc96680a044a6bae6fdd72b6bc289a"
     },
     {
       "file": "screenshots/desktop-night.png",
-      "sha256": "c8b9cb723e80f5c148004a57689c7935ffcfe0cb17657f218397bfcfb4b4e89f"
+      "sha256": "8a804e914a4c9fcfa310e97736d2a750c5c2de942b9d0bca6675bc19773fb389"
     },
     {
       "file": "screenshots/mobile-lobby.png",
-      "sha256": "ce307997edd5641ab07c31fbcb8a67a54c003c04fb4ed8b70548ca3f3bd30b19"
+      "sha256": "dc2f477175d43606644b67ec794283bfdd05eea33540101617ab46db44b97c66"
     },
     {
       "file": "screenshots/mobile-gameplay.png",
-      "sha256": "69833ad1d16a3e7377b55e2a8656412506cc48644e3c9f449047a18ffa18adf8"
+      "sha256": "2e8d56e13e128dab76e014a18c826e3ac018f4e66990fb469eac2431e0cd2ba8"
     },
     {
       "file": "screenshots/mobile-minigame.png",
-      "sha256": "55b506276005f1c13e26da5ecd9b59fa05aec3c21fa2e2b2d61cd0b2df4f3a34"
+      "sha256": "40534445e30d08abfa0484e6905d20dc7c021de63cb0803c96be1b6d468563d6"
     },
     {
       "file": "screenshots/landscape-gameplay.png",
-      "sha256": "8859d31ae7e5b1cddcd682ff6b1d8f208284f5053723b59434126e045981ce9c"
+      "sha256": "dc98dfc3149e4182060d8a829b42f1ed6b4f5b953efe6bf23a21f7dcc4dea86f"
     }
   ],
   "summary": {

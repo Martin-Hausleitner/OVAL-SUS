@@ -1,0 +1,139 @@
+{
+  "name": "Trump Among Us",
+  "generated_utc": "2026-09-22T14:23:37.202684+00:00",
+  "browser": "Google Chrome 152.0.7977.82",
+  "source_sha256": "b83dc506beafa42263782b490f0688036e0b4c7e8345f6726ffa7b857d54ece9",
+  "renamed_sha256": "a538fb95c5e699e264bfa89383108e049bc733dabcbba6c93c95244e9ba633bf",
+  "storage_key_preserved": "oval-sus-v1",
+  "checks": [
+    {
+      "width": 320,
+      "height": 740,
+      "pass": true,
+      "bounds": {
+        "brand": {
+          "left": 10,
+          "right": 149.265625
+        },
+        "nav": {
+          "left": 165.359375,
+          "right": 237
+        },
+        "tools": {
+          "left": 245,
+          "right": 310
+        },
+        "scroll": 320
+      }
+    },
+    {
+      "width": 360,
+      "height": 800,
+      "pass": true,
+      "bounds": {
+        "brand": {
+          "left": 10,
+          "right": 149.265625
+        },
+        "nav": {
+          "left": 205.359375,
+          "right": 277
+        },
+        "tools": {
+          "left": 285,
+          "right": 350
+        },
+        "scroll": 360
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "pass": true,
+      "bounds": {
+        "brand": {
+          "left": 15,
+          "right": 177.65625
+        },
+        "nav": {
+          "left": 222.359375,
+          "right": 297
+        },
+        "tools": {
+          "left": 309,
+          "right": 375
+        },
+        "scroll": 390
+      }
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "pass": true,
+      "bounds": {
+        "brand": {
+          "left": 22,
+          "right": 241.328125
+        },
+        "nav": {
+          "left": 265.328125,
+          "right": 609.625
+        },
+        "tools": {
+          "left": 690,
+          "right": 822
+        },
+        "scroll": 844
+      }
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "pass": true,
+      "bounds": {
+        "brand": {
+          "left": 30,
+          "right": 249.328125
+        },
+        "nav": {
+          "left": 304.328125,
+          "right": 678.625
+        },
+        "tools": {
+          "left": 1149.53125,
+          "right": 1410
+        },
+        "scroll": 1440
+      }
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "pass": true,
+      "bounds": {
+        "brand": {
+          "left": 30,
+          "right": 249.328125
+        },
+        "nav": {
+          "left": 304.328125,
+          "right": 678.625
+        },
+        "tools": {
+          "left": 1629.53125,
+          "right": 1890
+        },
+        "scroll": 1920
+      }
+    }
+  ],
+  "errors": [],
+  "summary": {
+    "passed": 6,
+    "total": 6
+  },
+  "not_tested": [
+    "Native Safari",
+    "Physical mobile devices"
+  ]
+}

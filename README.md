@@ -1,4 +1,4 @@
-# OVAL SUS — Miniature Edition
+# Trump Among Us — Miniature Edition
 
 Ein satirisches Social-Deduction-Minispiel in einer frei erfundenen Miniaturversion des Weißen Hauses. **Eine HTML-Datei. Kein Build. Kein Login. Keine externen Laufzeit-Abhängigkeiten.**
 
@@ -20,7 +20,7 @@ Die Miniature Edition ergänzt räumliche Möbel und Wände, Parkett, Fensterlic
 
 ## Screenshots
 
-Die Bilder wurden für diesen Publish aus der unveränderten Anwendung mit Chrome auf macOS aufgenommen.
+Die Bilder wurden nach der Umbenennung aus der laufenden Anwendung mit Headless Google Chrome unter Linux neu aufgenommen. Es sind echte Browser-Screenshots, keine generierten Bilder.
 
 ### Lobby
 ![Lobby](screenshots/desktop-lobby.png)
@@ -74,4 +74,8 @@ Die QA-Schnittstelle ist nur mit `?test=1` verfügbar. Die Tests schreiben echte
 
 ## Dateien
 
-`index.html` ist die vollständige Anwendung. `screenshots/` enthält die Browser-Aufnahmen, `tests/smoke.py` den reproduzierbaren Publish-Check und `evidence/` die Prüfberichte. **Der Spielcode ist byte-identisch mit `OVAL-SUS-Miniature-Edition.html` aus dem Chat.**
+`index.html` ist die vollständige Anwendung. `screenshots/` enthält die Browser-Aufnahmen, `tests/smoke.py` den reproduzierbaren Publish-Check und `evidence/` die Prüfberichte. **Das Spiel heißt jetzt Trump Among Us.** Browser-Titel, Kopfzeile, Startbildschirm, Beschreibung und PNG-Dateinamen wurden angepasst. Spielmechanik und der vorhandene lokale Speicherschlüssel bleiben erhalten. Der Repository-Pfad und die Spieladresse bleiben unverändert, damit bestehende Links weiter funktionieren. Die ursprüngliche Chat-Datei und ihre Prüfsumme sind historische Herkunftsnachweise; die aktuelle Prüfsumme steht in `SHA256SUMS`.
+
+## Umbenennung geprüft
+
+Die Branding-Prüfung kontrolliert Titel, Startbildschirm und überlappungsfreie Navigation bei 320, 360, 390, 844, 1440 und 1920 Pixel Breite. [Prüfbericht](evidence/rename-branding.json). Der oben verlinkte Publish-Test wurde nach der Änderung erneut ausgeführt.
